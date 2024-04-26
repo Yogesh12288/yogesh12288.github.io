@@ -1103,7 +1103,7 @@ height: 50px;}
 
 .tf__brand ul {
   display: flex;
-  padding: 25px 0px 30px 0px;
+  padding-top: 30px;
 }
 
 .tf__brand ul li {
@@ -1259,13 +1259,14 @@ main {
   z-index: 5;
 }
 .footer {
-  background: var(--bodyBg);
   position: relative;
 }
 .tf__footer_content {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .tf__footer_content .icon {
@@ -1277,11 +1278,11 @@ main {
   background: var(--colorPrimary);
   border-radius: 50%;
   padding: 20px;
-  margin-right: 35px;
 }
 
 .tf__footer_content .text {
   width: 67%;
+  text-align: center;
 }
 
 .tf__footer_content .text h3 {
@@ -2092,8 +2093,7 @@ main {
 }
 
 .tf__sidebar_item {
-  padding: 40px;
-  background: var(--bgColor);
+  padding: 10px 0;
 }
 
 .tf__sidebar_item h3 {
@@ -3181,3 +3181,8 @@ canvas {
 	contain: strict;
 }
 
+#recommendations.bg_tf2 a.tutorial_link{display: none !important;}
+section > div, footer > div{
+  position: relative;
+  z-index: 4;
+}

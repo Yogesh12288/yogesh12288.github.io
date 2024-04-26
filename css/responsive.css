@@ -491,7 +491,7 @@
     display: none;
   }
 
-  .tf__banner {
+  /* .tf__banner {
     height: auto;
     padding-bottom: 80px;
   }
@@ -504,7 +504,7 @@
   .tf__banner_text {
     margin-bottom: 0;
     margin-top: 50px;
-  }
+  } */
 
   .tf__banner_img .img {
     display: none;
@@ -561,10 +561,10 @@
   .tf__portfolio_item {
     height: 350px;
   }
-
+/* 
   .tf__brand ul li {
     font-size: 65px;
-  }
+  } */
 
   .tf__blog .common_btn {
     position: inherit;
@@ -724,11 +724,11 @@
   .main {
     padding-left: 0;
   }
-
+/* 
   .tf__banner_2 {
     height: auto;
     padding: 115px 0px 50px 0px;
-  }
+  } */
 
   .tf__banner_text_2 {
     padding-bottom: 0;
@@ -886,11 +886,11 @@
     display: none;
   }
 
-  .tf__banner {
+  /* .tf__banner {
     height: auto;
     padding-bottom: 80px;
-  }
-
+  } */
+/* 
   .tf__banner_text h1,
   .tf__banner_text h1 span {
     font-size: 48px !important;
@@ -903,7 +903,7 @@
   .tf__banner_text {
     margin-bottom: 0;
     margin-top: 50px;
-  }
+  } */
 
   .tf__banner_img .img {
     height: 450px;
@@ -962,10 +962,10 @@
   .tf__portfolio_item {
     height: 350px;
   }
-
+/* 
   .tf__brand ul li {
     font-size: 35px;
-  }
+  } */
 
   .tf__blog .common_btn {
     position: inherit;
@@ -1134,10 +1134,10 @@
     padding-left: 0;
   }
 
-  .tf__banner_2 {
+  /* .tf__banner_2 {
     height: auto;
     padding: 115px 0px 50px 0px;
-  }
+  } */
 
   .tf__banner_text_2 {
     padding-bottom: 0;
@@ -1287,13 +1287,13 @@
   .main_menu .toggle_icon {
     display: none;
   }
-
+/* 
   .tf__banner {
     height: auto;
     padding-bottom: 80px;
-  }
+  } */
 
-  .tf__banner_text h1,
+  /* .tf__banner_text h1,
   .tf__banner_text h1 span {
     font-size: 40px !important;
   }
@@ -1309,7 +1309,7 @@
   .tf__banner_text {
     margin-bottom: 0;
     margin-top: 50px;
-  }
+  } */
 
   .tf__banner_img .img {
     height: auto;
@@ -1398,9 +1398,9 @@
     height: 70px;
   }
 
-  .tf__brand ul li {
+  /* .tf__brand ul li {
     font-size: 35px;
-  }
+  } */
 
   .tf__blog .common_btn {
     position: inherit;
@@ -1623,10 +1623,10 @@
     padding-left: 0;
   }
 
-  .tf__banner_2 {
+  /* .tf__banner_2 {
     height: auto;
     padding: 115px 0px 50px 0px;
-  }
+  } */
 
   .tf__banner_text_2 {
     padding-bottom: 0;
