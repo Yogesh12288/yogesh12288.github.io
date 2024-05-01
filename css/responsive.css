@@ -130,9 +130,7 @@
   /*==============================
      BLOG DETAILS START
     ==============================*/
-  .tf__sidebar_item {
-    padding: 30px;
-  }
+ 
 
   .tf__sidebar_comments ul li .text {
     width: 66%;
@@ -323,9 +321,6 @@
     padding: 10px 16px;
   }
 
-  .tf__sidebar_item {
-    padding: 30px;
-  }
 
   .tf__sidebar_comments ul li .img {
     width: 70px;
@@ -1532,9 +1527,7 @@
     margin-bottom: 25px;
   }
 
-  .tf__sidebar_item {
-    padding: 25px;
-  }
+
 
   .tf__sidebar_comments ul li .img {
     margin-right: 10px;
