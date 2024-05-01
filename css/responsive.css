@@ -433,9 +433,12 @@
     height: auto;
     margin-left: 12px;
   }
-
+  .tf__banner_text h1,
+  .tf__banner_text h1 span {
+    font-size: 40px !important;
+  }
   .main_menu {
-    height: 60px;
+    height: 0px;
     padding: 0;
   }
 
@@ -828,7 +831,10 @@
     height: auto;
     margin-left: 12px;
   }
-
+  .tf__banner_text h1,
+  .tf__banner_text h1 span {
+    font-size: 32px !important;
+  }
   .main_menu {
     height: 60px;
     padding: 0;
@@ -1230,7 +1236,10 @@
     height: auto;
     margin-left: 12px;
   }
-
+  .tf__banner_text h1,
+  .tf__banner_text h1 span {
+    font-size: 28px !important;
+  }
   .main_menu {
     height: 60px;
     padding: 0;
